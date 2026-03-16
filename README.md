@@ -205,6 +205,7 @@ This suggests many issues are minor or routine support requests.
 - Automate low-priority issue resolution.
 
 **B\. Incident Impact Analysis - Key Insights**
+
 **Insight 6: Certain Product Areas Cause Longer Downtime**
 
 From Average Downtime by Product Area:
@@ -290,6 +291,7 @@ From Data loss chart:
 - Improve backup and disaster recovery systems in EMEA infrastructure.
 
 **C\. Optimization & Risk Insights - Key Insights**
+
 **Insight 11: Few Incidents Cause Maximum Impact**
 
 From Top 10 High Impact Incidents:
