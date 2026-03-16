@@ -114,8 +114,7 @@ Visualizations include:
 
 Some important patterns identified through the analysis include:
 
-1️⃣ Operational Overview – Key Insights
-Insight 1: High Incident Volume
+1️⃣ Operational Overview - Key Insights Insight 1: High Incident Volume
 
 Total tickets recorded: 50K
 
@@ -203,8 +202,7 @@ Implement self-service knowledge base portals.
 
 Automate low-priority issue resolution.
 
-2️⃣ Incident Impact Analysis – Key Insights
-Insight 6: Certain Product Areas Cause Longer Downtime
+2️⃣ Incident Impact Analysis - Key Insights Insight 6: Certain Product Areas Cause Longer Downtime
 
 From Average Downtime by Product Area:
 
@@ -288,8 +286,7 @@ Recommendation
 
 Improve backup and disaster recovery systems in EMEA infrastructure.
 
-3️⃣ Optimization & Risk Insights – Key Insights
-Insight 11: Few Incidents Cause Maximum Impact
+3️⃣ Optimization & Risk Insights - Key Insights Insight 11: Few Incidents Cause Maximum Impact
 
 From Top 10 High Impact Incidents:
 
@@ -353,20 +350,37 @@ Improve incident response time
 
 Implement customer communication during outages
 
-**7\. Recommendations**
+**7\. Final Recommendations**
 
 Based on the insights derived from the analysis, the following optimization strategies are recommended:
 
-- **Improve Proactive Monitoring**  
-   Implement monitoring systems for product areas with high error rates to detect issues earlier.
-- **Prioritize High-Impact Incidents**  
-   Develop escalation mechanisms for incidents affecting a large number of customers.
-- **Strengthen Security Incident Response**  
-   Enhance incident response strategies for security-related issues to minimize operational risk.
-- **Optimize Resource Allocation**  
-   Allocate more IT support resources to regions or industries generating higher ticket volumes.
-- **Reduce Downtime through Automation**  
-   Implement automated runbooks and incident management workflows to reduce resolution time.
+**1️⃣ Focus on Critical Infrastructure**
+
+Prioritize monitoring for:
+
+- Data Pipeline
+- Authentication
+- Notifications
+
+**2️⃣ Improve Incident Escalation**
+
+Automatically escalate incidents with:
+
+- High downtime
+- High customer impact
+- High priority
+
+**3️⃣ Expand Runbook Coverage**
+
+Develop runbooks for **common incidents** to reduce resolution time.
+
+**4️⃣ Strengthen Regional Security**
+
+Increase security monitoring especially in **AMER region**.
+
+**5️⃣ Improve Preventive Monitoring**
+
+Use predictive analytics to detect **early warning signals of system failures**.
 
 **8\. Tools Used**
 
